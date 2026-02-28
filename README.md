@@ -109,8 +109,7 @@ GNN과 컴퓨터 비전 전문성을 갖춘 **AI 엔지니어**입니다.
 
 ---
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhwan1103%2Ftoday&amp;count_bg=%230D47A1&amp;title_bg=%23555555&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=Today&amp;edge_flat=false"/>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhwan1103&amp;count_bg=%234FC3F7&amp;title_bg=%23555555&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=Total&amp;edge_flat=false"/>
+<img src="https://komarev.com/ghpvc/?username=kimhwan1103&amp;color=0D47A1&amp;style=flat&amp;label=Profile+Views"/>
 
 </div>
 
