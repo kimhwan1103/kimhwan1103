@@ -2,7 +2,7 @@
 
 <div align="right">
 
-[![English](https://img.shields.io/badge/lang-English-blue)](./README_EN.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-red)](./README.md)
 
 </div>
 
@@ -10,11 +10,11 @@
 
 ## About Me
 
-GNN과 컴퓨터 비전 전문성을 갖춘 **AI 엔지니어**입니다.
+**AI Engineer** specializing in GNN and Computer Vision.
 
-🎓 **명지대학원 석사** — Dual GAT Encoder 기반 노이즈 교정 연구
-🔬 **Research** — 특허 2건 출원, 학술대회 논문 4건 발표
-💼 **Currently** — 한국적성검사센터에서 서비스 개발 및 AWS 인프라 관리
+🎓 **M.S. Myongji University** — Noise Correction Research based on Dual GAT Encoder
+🔬 **Research** — 2 Patents Filed, 4 Conference Papers Published
+💼 **Currently** — Service Development & AWS Infrastructure Management at KACT
 
 ---
 
@@ -58,32 +58,32 @@ GNN과 컴퓨터 비전 전문성을 갖춘 **AI 엔지니어**입니다.
 
 ## 🔬 Research & Patents
 
-### 학술 논문
-| 구분 | 제목 | 연도 |
-|------|------|------|
-| 국내 | 통신학회 동계학술대회 (GAT 기반 노이즈 억제) | 2025 |
-| 국내 | 통신학회 동계학술대회 (UAV 경량화 객체탐지) | 2024 |
-| 국내 | 통신학회 추계학술대회 (U-ISORD 이상영역 탐지) | 2023 |
+### Publications
+| Type | Title | Year |
+|------|-------|------|
+| Domestic | KICS Winter Conf. — GAT-based Noise Suppression | 2025 |
+| Domestic | KICS Winter Conf. — Lightweight UAV Object Detection | 2024 |
+| Domestic | KICS Fall Conf. — U-ISORD Anomaly Region Detection | 2023 |
 
-### 특허 출원
-- GNN을 활용한 멀티 센서 데이터 노이즈 및 중복 탐지 기법 (2025)
-- 이상 영역 기반 Unknown Object 탐지 기법 (2025)
+### Patents
+- Multi-sensor Data Noise & Redundancy Detection using GNN (2025)
+- Anomaly Region-based Unknown Object Detection (2025)
 
 ---
 
 ## 🎯 Projects
 
-### 석사 논문 — Dual GAT Encoder 기반 노이즈 교정 (2025)
-> Cora 데이터셋 7가지 복합 노이즈 시나리오에서 기존 GNN 대비 **평균 정확도 4~40% 향상**
+### Master's Thesis — Dual GAT Encoder Noise Correction (2025)
+> Achieved **4~40% average accuracy improvement** over existing GNN models across 7 compound noise scenarios on Cora dataset
 
-### 임베디드 빔프로젝터 시스템 (2024) — 이노피아테크 기업 과제
-> TCP 소켓 통신 기반 원격 이미지 전송 및 실시간 출력 시스템 구축
+### Embedded Beam Projector System (2024) — Innopia Tech
+> Built remote image transmission & real-time display system via TCP socket communication
 
-### 실시간 얼굴-캐릭터 동기화 시스템 (2023) — 졸업 프로젝트
-> MediaPipe + Python-Unity TCP 통신으로 3D 캐릭터 표정 실시간 동기화
+### Real-time Face-Character Sync System (2023) — Graduation Project
+> Real-time 3D character facial expression synchronization using MediaPipe + Python-Unity TCP
 
-### DACON 전력 사용량 예측 경진대회 (2021)
-> 클러스터링 + 앙상블 기법 활용 — **TOP 30 달성**
+### DACON Power Consumption Prediction (2021)
+> Clustering + Ensemble approach — **TOP 30**
 
 ---
 
@@ -95,10 +95,10 @@ GNN과 컴퓨터 비전 전문성을 갖춘 **AI 엔지니어**입니다.
 
 ## 🎓 Education
 
-| 기간 | 학교 | 학위 |
-|------|------|------|
-| 2023 ~ 2025 | 명지대학원 | 석사 졸업 |
-| ~ 2023 | 한국성서대학교 | 학사 졸업 |
+| Period | University | Degree |
+|--------|-----------|--------|
+| 2023 ~ 2025 | Myongji University (Graduate) | M.S. |
+| ~ 2023 | Korean Bible University | B.S. |
 
 ---
 
