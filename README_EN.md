@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0D47A1&height=250&section=header&text=Kim%20Hwan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GNN%20%26%20Computer%20Vision&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0D47A1&height=250&section=header&text=Kim%20Hwan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GNN%20%C2%B7%20Computer%20Vision&descAlignY=55&descSize=20)
 
 <div align="right">
 
