@@ -49,8 +49,8 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kimhwan1103&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhwan1103&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kimhwan1103&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhwan1103&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimhwan1103&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -109,8 +109,8 @@
 
 ---
 
-![today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhwan1103%2Ftoday&count_bg=%230D47A1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false)
-![total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhwan1103&count_bg=%234FC3F7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Total&edge_flat=false)
+![today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhwan1103%2Ftoday&amp;count_bg=%230D47A1&amp;title_bg=%23555555&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=Today&amp;edge_flat=false)
+![total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhwan1103&amp;count_bg=%234FC3F7&amp;title_bg=%23555555&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=Total&amp;edge_flat=false)
 
 </div>
 
