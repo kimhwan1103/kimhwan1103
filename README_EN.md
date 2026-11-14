@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4FC3F7,100:0D47A1&amp;height=250&amp;section=header&amp;text=Kim%20Hwan&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20GNN%20%C2%B7%20Computer%20Vision&amp;descAlignY=55&amp;descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4FC3F7,100:0D47A1&amp;height=250&amp;section=header&amp;text=Kim%20Hwan&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20LLM%20Systems%20%C2%B7%20Graph%20ML%20%C2%B7%20Game%20AI&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <div align="right">
 
@@ -10,11 +10,15 @@
 
 ## About Me
 
-**AI Engineer** specializing in GNN and Computer Vision.
+**AI engineer** working on LLM systems, graph machine learning, and game AI. I earned an M.S. in Information and Communication Engineering from Myongji University in August 2025 and have experience developing and operating SaaS backends.
 
-🎓 **M.S. Myongji University** — Noise Correction Research based on Dual GAT Encoder
-🔬 **Research** — 2 Patents Filed, 4 Conference Papers Published
-💼 **Currently** — Service Development &amp; AWS Infrastructure Management at KACT
+## Selected Work
+
+| Project | Implementation and evidence |
+|---|---|
+| [Graph-Assisted Error Diagnosis](https://github.com/kimhwan1103/graph-assisted-error-diagnosis) | Knowledge-graph candidates, LLM evidence validation, and failure analysis for Docker build errors. Includes an offline replay that needs no API key. |
+| [WorldWeaver System](https://github.com/kimhwan1103/WorldWeaver-System) | Interactive narrative engine with NPC-specific memory and rule checks for game state. [Japanese documentation](https://github.com/kimhwan1103/WorldWeaver-System/blob/main/README_JA.md) |
+| [NAC · Discover Computing (2026)](https://doi.org/10.1007/s10791-026-10216-8) | First author. Designed, implemented, and evaluated NAC for robust graph neural networks. |
 
 ---
 
@@ -58,7 +62,11 @@
 
 ## 🔬 Research & Patents
 
-### Publications
+### Journal Publication
+
+- **Discover Computing (2026)** · [Noise-adaptive correction for robust graph neural networks in trusted graph computing](https://doi.org/10.1007/s10791-026-10216-8) · First author
+
+### Selected Domestic Conferences
 | Type | Title | Year |
 |------|-------|------|
 | Domestic | KICS Winter Conf. — GAT-based Noise Suppression | 2025 |
@@ -74,7 +82,7 @@
 ## 🎯 Projects
 
 ### Master's Thesis — Dual GAT Encoder Noise Correction (2025)
-> Achieved **4~40% average accuracy improvement** over existing GNN models across 7 compound noise scenarios on Cora dataset
+> Evaluated GNN node classification under compound noise on the Cora dataset.
 
 ### Embedded Beam Projector System (2024) — Innopia Tech
 > Built remote image transmission &amp; real-time display system via TCP socket communication
@@ -97,7 +105,7 @@
 
 | Period | University | Degree |
 |--------|-----------|--------|
-| 2023 ~ 2025 | Myongji University (Graduate) | M.S. |
+| Graduated Aug 2025 | Myongji University (Graduate) | M.S. |
 | ~ 2023 | Korean Bible University | B.S. |
 
 ---
