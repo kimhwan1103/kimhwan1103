@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4FC3F7,100:0D47A1&amp;height=250&amp;section=header&amp;text=Kim%20Hwan&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20GNN%20%C2%B7%20Computer%20Vision&amp;descAlignY=55&amp;descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4FC3F7,100:0D47A1&amp;height=250&amp;section=header&amp;text=Kim%20Hwan&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20LLM%20Systems%20%C2%B7%20Graph%20ML%20%C2%B7%20Game%20AI&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <div align="right">
 
@@ -10,11 +10,17 @@
 
 ## About Me
 
-GNN과 컴퓨터 비전 전문성을 갖춘 **AI 엔지니어**입니다.
+LLM 시스템, 그래프 머신러닝, 게임 AI를 개발하는 **AI 엔지니어**입니다. 명지대학교 정보통신공학 석사(2025년 8월)이며, SaaS 백엔드 개발·운영 경험이 있습니다.
 
-🎓 **명지대학원 석사** — Dual GAT Encoder 기반 노이즈 교정 연구
-🔬 **Research** — 특허 2건 출원, 학술대회 논문 4건 발표
-💼 **Currently** — 한국적성검사센터에서 서비스 개발 및 AWS 인프라 관리
+## Selected Work
+
+| 프로젝트 | 구현과 검증 |
+|---|---|
+| [Graph-Assisted Error Diagnosis](https://github.com/kimhwan1103/graph-assisted-error-diagnosis) | Docker 빌드 오류에 대한 지식그래프 후보 생성, LLM 근거 검증 및 실패 분석. API 키 없이 오프라인 예제를 실행할 수 있습니다. |
+| [WorldWeaver System](https://github.com/kimhwan1103/WorldWeaver-System) | NPC별 기억과 규칙 검사로 게임 상태를 관리하는 인터랙티브 내러티브 엔진. [일본어 문서](https://github.com/kimhwan1103/WorldWeaver-System/blob/main/README_JA.md) |
+| [NAC · Discover Computing (2026)](https://doi.org/10.1007/s10791-026-10216-8) | 제1저자. 노이즈에 강건한 GNN을 위한 NAC를 설계·구현하고 실험으로 평가했습니다. |
+
+**日本語（にほんご）:** LLMシステム、グラフ機械学習（きかいがくしゅう）、ゲームAIの開発（かいはつ）に取り組（とりく）んでいます。上（うえ）のリンクから実装（じっそう）と評価（ひょうか）をご覧（ごらん）いただけます。
 
 ---
 
@@ -58,7 +64,11 @@ GNN과 컴퓨터 비전 전문성을 갖춘 **AI 엔지니어**입니다.
 
 ## 🔬 Research & Patents
 
-### 학술 논문
+### 출판 논문
+
+- **Discover Computing (2026)** · [Noise-adaptive correction for robust graph neural networks in trusted graph computing](https://doi.org/10.1007/s10791-026-10216-8) · 제1저자
+
+### 국내 학술대회 (선별)
 | 구분 | 제목 | 연도 |
 |------|------|------|
 | 국내 | 통신학회 동계학술대회 (GAT 기반 노이즈 억제) | 2025 |
@@ -74,7 +84,7 @@ GNN과 컴퓨터 비전 전문성을 갖춘 **AI 엔지니어**입니다.
 ## 🎯 Projects
 
 ### 석사 논문 — Dual GAT Encoder 기반 노이즈 교정 (2025)
-> Cora 데이터셋 7가지 복합 노이즈 시나리오에서 기존 GNN 대비 **평균 정확도 4~40% 향상**
+> Cora 데이터셋에서 복합 노이즈가 GNN 분류 성능에 미치는 영향을 평가했습니다.
 
 ### 임베디드 빔프로젝터 시스템 (2024) — 이노피아테크 기업 과제
 > TCP 소켓 통신 기반 원격 이미지 전송 및 실시간 출력 시스템 구축
@@ -97,7 +107,7 @@ GNN과 컴퓨터 비전 전문성을 갖춘 **AI 엔지니어**입니다.
 
 | 기간 | 학교 | 학위 |
 |------|------|------|
-| 2023 ~ 2025 | 명지대학원 | 석사 졸업 |
+| 2025년 8월 졸업 | 명지대학원 | 석사 졸업 |
 | ~ 2023 | 한국성서대학교 | 학사 졸업 |
 
 ---
